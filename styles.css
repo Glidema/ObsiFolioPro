@@ -1,0 +1,41 @@
+/* ObsiFolio — plugin UI */
+
+.obsifolio-pro-badge {
+  display: inline-block;
+  font-size: 0.75em;
+  padding: 0.1em 0.45em;
+  border-radius: 3px;
+  background: var(--interactive-accent);
+  color: var(--text-on-accent);
+  margin-left: 0.4em;
+  vertical-align: middle;
+}
+
+.obsifolio-chooser .obsifolio-chooser-desc {
+  margin-top: -0.4em;
+  margin-bottom: 1em;
+  opacity: 0.75;
+}
+
+.obsifolio-chooser .setting-item {
+  border-top: none;
+  padding: 0.65em 0;
+}
+
+.obsifolio-preview-meta {
+  margin: 0.5em 0 1em;
+  padding-left: 1.2em;
+}
+
+.obsifolio-preview-chapters {
+  max-height: 220px;
+  overflow: auto;
+  margin: 0.4em 0 1em;
+  padding-left: 1.4em;
+  font-size: 0.92em;
+}
+
+.obsifolio-pro-gate-msg {
+  margin: 0.75em 0 0.5em;
+  line-height: 1.45;
+}

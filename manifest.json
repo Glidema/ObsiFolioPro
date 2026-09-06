@@ -1,0 +1,10 @@
+{
+  "id": "obsifolio",
+  "name": "ObsiFolio",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Turn Obsidian notes into polished EPUB ebooks \u2014 folders, indexes, covers, and reading-ready styles.",
+  "author": "ObsiFolio",
+  "authorUrl": "https://github.com/Glidema/ObsiFolioPro",
+  "isDesktopOnly": false
+}
